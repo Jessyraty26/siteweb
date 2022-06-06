@@ -1,0 +1,22 @@
+{
+  "name": "siteweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jessyraty26/siteweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jessyraty26/siteweb/issues"
+  },
+  "homepage": "https://github.com/Jessyraty26/siteweb#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
